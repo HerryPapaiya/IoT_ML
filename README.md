@@ -26,7 +26,7 @@ The main function of the data-logger is to store the acquired data. Moreover, it
     • On-field and Off-field monitoring,
     
 Data-logger for the project is Google sheets which can be accessed from Google drive. Stable connection can be achieved between Google Sheets and 
-ESP8266 using Google scripts code.
+ESP8266 using Google scripts code. iot_data.xlsx have been included in DataLogger folder to give refernce for DHT11 data acquirement from ESP8266 to Google Sheets. IoT_Data.txt includes Google scripts code.(Extention should be .gs while including in project) 
 
 3. Machine Learning
 
