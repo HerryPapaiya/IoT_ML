@@ -10,6 +10,7 @@ The implementation includes three major parts as described.
 2. Data Logger
 3. Machine Learning
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Internet of Things
 
