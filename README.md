@@ -7,6 +7,11 @@ On the other hand, ML opens up insight hidden in the acquired data.
 The implementation includes three major parts as described.
 
 1. Internet of Things
+2. Data Logger
+3. Machine Learning
+
+
+1. Internet of Things
 
 IoT part includes,
 Sensors – Measurement of multiple parameters can be done using primary sensing elements or electronic sensors. For Project, DHT11
