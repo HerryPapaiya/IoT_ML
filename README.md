@@ -31,7 +31,7 @@ ESP8266 using Google scripts code. iot_data.xlsx have been included in DataLogge
 3. Machine Learning
 
 The main aim of ML is to observe data and perceive upcoming events. The Random Forest algorithm can be used for both Classification and Regression problems 
-in ML. ML has been implemented in Jupiter notebook in Python. 
+in ML. ML has been implemented in Jupiter notebook in Python. In ML folder code.pdf includes python code to implement ML on IOT based data.
 
 It applies 75% of the data to the Training set and the remaining 25% of the data to the Test Set. Consequently, the decision tree comes up, 
 and at the end prediction takes place with ±error and specific percent of accuracy.
